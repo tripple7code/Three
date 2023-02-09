@@ -1,2 +1,2 @@
 #!/bin/bash
-touch iamafile.exe /tmp
+file /tmp/iamafile
