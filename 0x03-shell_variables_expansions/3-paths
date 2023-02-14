@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv
+find . -type d | wc -l
