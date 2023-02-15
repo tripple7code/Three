@@ -1,2 +1,2 @@
 #!/bin/bash
-$WATER | tr water 01234
+printf $((bestchol#(($((stir#WATER)) + $((water#STIR)))))) 
